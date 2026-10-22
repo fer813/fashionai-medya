@@ -1,0 +1,53 @@
+{
+ "format": "tanitim",
+ "baslik": "fashionai.tr: pazar yerlerinde günün enleri, her gün",
+ "sure_sn": 29.4,
+ "aciklama": "Pazar yerlerinde günün enleri, her gün burada.\n\nHer gün 5 liste: en çok satın alınanlar, favorilere eklenenler, yorum alanlar, fiyatı düşenler ve en çok beğenilenler. Sıralama ve rakamlar pazar yerlerinin kendi listelerinden; her ürünün linki açıklamada, fiyatı o günün fiyatı.\n\n#çoksatanlar #moda #kadınmodası #fiyatperformans #gününenleri",
+ "muzik": "nu-disco.mp3",
+ "sahneler": [
+  {
+   "tur": "t_izgara",
+   "ust": "FASHIONAI.TR",
+   "buyuk": "Bugün <em>gerçekten</em> ne alınıyor?",
+   "ses": "Her gün binlerce ürün satılıyor. Peki gerçekten hangileri alınıyor? Pazar yerlerinde günün enlerini her gün sana getiriyoruz.",
+   "tanitim": true
+  },
+  {
+   "tur": "t_maddeler",
+   "ust": "HER GÜN 5 LİSTE",
+   "buyuk": "Günün <em>enleri</em>, beş liste",
+   "maddeler": [
+    "En çok satın alınanlar",
+    "En çok favorilere eklenenler",
+    "En çok yorum alanlar",
+    "En çok fiyatı düşenler",
+    "En çok beğenilenler"
+   ],
+   "ses": "Her gün beş liste: en çok satın alınanlar, favorilere eklenenler, yorum alanlar, fiyatı düşenler ve en çok beğenilenler.",
+   "tanitim": true
+  },
+  {
+   "tur": "t_foto",
+   "ust": "SEÇİMİ ALANLAR YAPIYOR",
+   "buyuk": "Rakamlar <em>gerçek</em>, abartı yok",
+   "ses": "Sıralama ve rakamlar pazar yerlerinin kendi listelerinden. Seçimi biz değil, alanlar yapıyor.",
+   "tanitim": true
+  },
+  {
+   "tur": "t_foto",
+   "ust": "LİNKLER AÇIKLAMADA",
+   "buyuk": "Her ürünün <em>linki</em> ve <em>günün fiyatı</em>",
+   "ses": "Her ürünün linki açıklamada, fiyatı o günün fiyatı. Beğendiysen kaydet, sonra bak.",
+   "tanitim": true
+  },
+  {
+   "tur": "kapanis",
+   "buyuk": "Her gün yeni liste",
+   "alt": "Kaçırmamak için takip et",
+   "ses": "Kaçırmamak için takip et. Günün enleri, her gün burada.",
+   "tanitim": true
+  }
+ ],
+ "urunler": [],
+ "uretildi": "2026-10-22T23:47:15+03:00"
+}
