@@ -1,0 +1,75 @@
+{
+ "format": "indirim",
+ "baslik": "Fiyatı düşen çok satanlar",
+ "sure_sn": 19.2,
+ "aciklama": "Fiyatı düşen çok satanlar\n\n1. adidas · 4.499,40 TL\n🔗 https://www.trendyol.com/adidas/handball-spezial-kadin-bordo-ayakkabi-p-994497307\n2. VULLY · 445,50 TL\n🔗 https://www.trendyol.com/vully/pdrn-glow-lip-balm-seffaf-cam-gorunumlu-parlaklik-veren-dolgunlastirici-ve-onarici-dudak-bakim-balmi-pdrn-hyaluronik-asit-peptit-iceren-10-ml-p-1172001120\n\n🕐 Fiyatlar 22.10.2026 19:06 itibarıyla Trendyol fiyatlarıdır, değişebilir.\nSıralama ve satış bilgileri Trendyol'un kendi listelerinden alınmıştır.\n\n#trendyol #çoksatanlar #kombin #modaönerileri #fiyatperformans",
+ "sahneler": [
+  {
+   "tur": "kanca",
+   "ust": "ÇOK SATANLARDA İNDİRİM",
+   "buyuk": "%40'a varan düşüş",
+   "ses": "Çok satanlarda fiyatı düşenler. Yüzde 40'a varan indirim var."
+  },
+  {
+   "tur": "urun",
+   "ust": "adidas",
+   "buyuk": "Bordo Kadın Ayakkabı",
+   "rozetler": [
+    "7.499 TL → 4.499,40 TL",
+    "%40 indirim",
+    "Son 10 Günün En Düşük Fiyatı"
+   ],
+   "ustu_cizili": true,
+   "ses": "Bordo Kadın Ayakkabı, 7.499 lira yerine 4.499 lira."
+  },
+  {
+   "tur": "urun",
+   "ust": "VULLY",
+   "buyuk": "PDRN Dudak Balmı",
+   "rozetler": [
+    "499 TL → 445,50 TL",
+    "%11 indirim",
+    "Son 10 Günün En Düşük Fiyatı"
+   ],
+   "ustu_cizili": true,
+   "ses": "PDRN Dudak Balmı, 499 lira yerine 446 lira."
+  },
+  {
+   "tur": "kapanis",
+   "buyuk": "Linkler açıklamada",
+   "alt": "Fiyatlar değişebilir · Kaydet",
+   "ses": "Fiyatlar değişebilir, linkler açıklamada."
+  }
+ ],
+ "urunler": [
+  {
+   "marka": "adidas",
+   "ad": "Handball Spezial Kadın Bordo Ayakkabı",
+   "fiyat": 4499.4,
+   "eski_fiyat": 7499.0,
+   "puan": 4.2,
+   "yorum": 131,
+   "favori": 36500,
+   "satis_3gun": 500,
+   "link": "https://www.trendyol.com/adidas/handball-spezial-kadin-bordo-ayakkabi-p-994497307",
+   "indirim_kaynagi": "Trendyol'daki üstü çizili fiyat"
+  },
+  {
+   "marka": "VULLY",
+   "ad": "PDRN Glow Lip Balm | Şeffaf, Cam Görünümlü Parlaklık Veren, Dolgunlaştırıcı ve Onarıcı Dudak Bakım Balmı | PDRN, Hyalüronik Asit & Peptit İçeren 10 ml",
+   "fiyat": 445.5,
+   "eski_fiyat": 499.0,
+   "puan": 3.3,
+   "yorum": 260,
+   "favori": 132300,
+   "satis_3gun": 5000,
+   "link": "https://www.trendyol.com/vully/pdrn-glow-lip-balm-seffaf-cam-gorunumlu-parlaklik-veren-dolgunlastirici-ve-onarici-dudak-bakim-balmi-pdrn-hyaluronik-asit-peptit-iceren-10-ml-p-1172001120",
+   "indirim_kaynagi": "Trendyol'daki üstü çizili fiyat"
+  }
+ ],
+ "not": "",
+ "muzik": "nu-disco.mp3",
+ "ozet": null,
+ "kaynak_yorumlar": null,
+ "uretildi": "2026-10-22T19:11:52+03:00"
+}
