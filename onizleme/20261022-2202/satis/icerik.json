@@ -1,0 +1,192 @@
+{
+ "format": "satis",
+ "baslik": "Bugün en çok satın alınanlar",
+ "sure_sn": 25.0,
+ "aciklama": "Bugün en çok satın alınanlar\n\n1. LumenaScent · 474,05 TL\n🔗 https://www.trendyol.com/lumenascent/liora-kadin-parfum-floral-edp-50-ml-p-971347342\n2. Embeauty · 333,60 TL\n🔗 https://www.trendyol.com/embeauty/ultra-siyah-dolgunlastirici-maskara-hacim-ve-uzunluk-etkili-p-1016742922\n3. AVEONIX · 349,46 TL\n🔗 https://www.trendyol.com/aveonix/shine-veil-parlak-ruj-10-nemlendirici-puruzsuz-dolgun-dudak-etkili-lipstick-p-1133800890\n4. CALLİEL · 499,90 TL\n🔗 https://www.trendyol.com/calliel/ton-esitleyici-aydinlik-verici-yogun-nemlendirici-50-spf-gunes-kremi-80-ml-p-951534808\n5. VULLY · 445,50 TL\n🔗 https://www.trendyol.com/vully/pdrn-glow-lip-balm-seffaf-cam-gorunumlu-parlaklik-veren-dolgunlastirici-ve-onarici-dudak-bakim-balmi-pdrn-hyaluronik-asit-peptit-iceren-10-ml-p-1172001120\n6. Cosmique · 685 TL\n🔗 https://www.trendyol.com/cosmique/6-volufiline-1-pal-isoleucine-yogun-dolgunlastirici-ve-hacim-bolgesel-cilt-bakim-serumu-25-ml-p-1200381778\n\n🕐 Fiyatlar 22.10.2026 22:02 itibarıyla Trendyol fiyatlarıdır, değişebilir.\nSıralama ve satış bilgileri Trendyol'un kendi listelerinden alınmıştır.\n\n#trendyol #çoksatanlar #moda #kadınmodası #fiyatperformans",
+ "muzik": "nu-disco.mp3",
+ "sahneler": [
+  {
+   "tur": "kanca",
+   "ust": "6 ÜRÜN · TRENDYOL ÇOK SATANLAR",
+   "buyuk": "Bugün en çok satın alınanlar",
+   "ses": "Bugün en çok satın alınanlar."
+  },
+  {
+   "tur": "urun",
+   "sira": 6,
+   "marka": "Cosmique",
+   "buyuk": "Dolgunlaştırıcı Cilt Serumu",
+   "fiyat": "685 TL",
+   "eski": "",
+   "cipler": [
+    "★ 5,0",
+    "144 değerlendirme",
+    "3 günde 5.000+ satış"
+   ],
+   "ses": "Dolgunlaştırıcı Cilt Serumu, 685 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 5,
+   "marka": "VULLY",
+   "buyuk": "Dolgunlaştırıcı Dudak Balmı",
+   "fiyat": "445,50 TL",
+   "eski": "",
+   "cipler": [
+    "★ 3,3",
+    "266 değerlendirme",
+    "3 günde 5.000+ satış"
+   ],
+   "ses": "Dolgunlaştırıcı Dudak Balmı, 446 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 4,
+   "marka": "CALLİEL",
+   "buyuk": "SPF 50 Güneş Kremi",
+   "fiyat": "499,90 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,2",
+    "30.450 değerlendirme",
+    "3 günde 5.000+ satış"
+   ],
+   "ses": "SPF 50 Güneş Kremi, 500 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 3,
+   "marka": "AVEONIX",
+   "buyuk": "Parlak Nemlendirici Ruj",
+   "fiyat": "349,46 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,7",
+    "852 değerlendirme",
+    "3 günde 5.000+ satış"
+   ],
+   "ses": "Parlak Nemlendirici Ruj, 349 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 2,
+   "marka": "Embeauty",
+   "buyuk": "Siyah Hacim Maskarası",
+   "fiyat": "333,60 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,2",
+    "35.607 değerlendirme",
+    "3 günde 10.000+ satış"
+   ],
+   "ses": "Siyah Hacim Maskarası, 334 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 1,
+   "marka": "LumenaScent",
+   "buyuk": "Floral Kadın Parfümü",
+   "fiyat": "474,05 TL",
+   "eski": "",
+   "cipler": [
+    "★ 3,8",
+    "41.966 değerlendirme",
+    "3 günde 10.000+ satış"
+   ],
+   "ses": "Floral Kadın Parfümü, 474 lira."
+  },
+  {
+   "tur": "kapanis",
+   "buyuk": "Linkler açıklamada",
+   "alt": "Her gün yeni liste · Takip et",
+   "ses": "Linkler açıklamada. Her gün yeni liste için takip et."
+  }
+ ],
+ "urunler": [
+  {
+   "marka": "LumenaScent",
+   "ad": "Liora Kadın Parfüm Floral Edp 50 ml",
+   "fiyat": 474.05,
+   "eski_fiyat": null,
+   "puan": 3.8,
+   "yorum": 41966,
+   "favori": 1000000,
+   "satis_3gun": 10000,
+   "link": "https://www.trendyol.com/lumenascent/liora-kadin-parfum-floral-edp-50-ml-p-971347342",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "Embeauty",
+   "ad": "Ultra Siyah Dolgunlaştırıcı Maskara – Hacim ve Uzunluk Etkili",
+   "fiyat": 333.6,
+   "eski_fiyat": null,
+   "puan": 4.2,
+   "yorum": 35607,
+   "favori": 1200000,
+   "satis_3gun": 10000,
+   "link": "https://www.trendyol.com/embeauty/ultra-siyah-dolgunlastirici-maskara-hacim-ve-uzunluk-etkili-p-1016742922",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "AVEONIX",
+   "ad": "Shine Veil Parlak Ruj 10 Nemlendirici Pürüzsüz Dolgun Dudak Etkili Lipstick",
+   "fiyat": 349.46,
+   "eski_fiyat": null,
+   "puan": 4.7,
+   "yorum": 852,
+   "favori": 54400,
+   "satis_3gun": 5000,
+   "link": "https://www.trendyol.com/aveonix/shine-veil-parlak-ruj-10-nemlendirici-puruzsuz-dolgun-dudak-etkili-lipstick-p-1133800890",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "CALLİEL",
+   "ad": "Ton Eşitleyici Aydınlık Verici Yoğun Nemlendirici +50 SPF Güneş Kremi 80 ML",
+   "fiyat": 499.9,
+   "eski_fiyat": null,
+   "puan": 4.2,
+   "yorum": 30450,
+   "favori": 1200000,
+   "satis_3gun": 5000,
+   "link": "https://www.trendyol.com/calliel/ton-esitleyici-aydinlik-verici-yogun-nemlendirici-50-spf-gunes-kremi-80-ml-p-951534808",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "VULLY",
+   "ad": "PDRN Glow Lip Balm | Şeffaf, Cam Görünümlü Parlaklık Veren, Dolgunlaştırıcı ve Onarıcı Dudak Bakım Balmı | PDRN, Hyalüronik Asit & Peptit İçeren 10 ml",
+   "fiyat": 445.5,
+   "eski_fiyat": 499.0,
+   "puan": 3.3,
+   "yorum": 266,
+   "favori": 133700,
+   "satis_3gun": 5000,
+   "link": "https://www.trendyol.com/vully/pdrn-glow-lip-balm-seffaf-cam-gorunumlu-parlaklik-veren-dolgunlastirici-ve-onarici-dudak-bakim-balmi-pdrn-hyaluronik-asit-peptit-iceren-10-ml-p-1172001120",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "Cosmique",
+   "ad": "%6 Volufiline + %1 Pal-Isoleucine - Yoğun Dolgunlaştırıcı ve Hacim Bölgesel Cilt Bakım Serumu 25 ml",
+   "fiyat": 685.0,
+   "eski_fiyat": null,
+   "puan": 5.0,
+   "yorum": 144,
+   "favori": 600800,
+   "satis_3gun": 5000,
+   "link": "https://www.trendyol.com/cosmique/6-volufiline-1-pal-isoleucine-yogun-dolgunlastirici-ve-hacim-bolgesel-cilt-bakim-serumu-25-ml-p-1200381778",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  }
+ ],
+ "uretildi": "2026-10-22T22:06:20+03:00"
+}
