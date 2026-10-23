@@ -1,0 +1,201 @@
+{
+ "format": "yorum",
+ "baslik": "Bugün en çok yorum alanlar",
+ "sure_sn": 25.3,
+ "aciklama": "Trendyol'da bugün en çok yorum alan 6 ürün 💬 · 23.10.2026\n\n1. Penti Mürdüm Külotlu Çorap · 168,99 TL · 4.745 değerlendirme\n🔗 https://www.trendyol.com/penti/fit-15-murdum-kulotlu-corap-p-853384005\n2. camaiore Siyah Deri Topuklu Bot · 1.469,16 TL · 4.202 değerlendirme\n🔗 https://www.trendyol.com/camaiore/kadin-siyah-deri-sade-sivri-burun-bilekte-topuklu-bot-p-977033233\n3. GRIMELANGE Siyah Oversize Tişört · 448,91 TL · 3.534 değerlendirme\n🔗 https://www.trendyol.com/grimelange/basil-kadin-100-pamuk-bisiklet-yaka-oversize-fit-uzun-kollu-siyah-t-shirt-p-788955600\n4. Ritnice Antrasit Palazzo Pantolon · 789 TL · 2.914 değerlendirme\n🔗 https://www.trendyol.com/ritnice/kadin-rena-kemerli-likrali-antrasit-palazzo-pantolon-p-866458994\n5. simplicity Siyah Topuklu Bot · 1.990 TL · 2.368 değerlendirme\n🔗 https://www.trendyol.com/simplicity/sivri-burun-kalin-okce-yandan-fermuarli-siyah-topuklu-bot-p-1051042836\n6. BiavSi Polarlı Yüksek Bel Tayt · 299 TL · 2.320 değerlendirme\n🔗 https://www.trendyol.com/biavsi/sardonlu-kalin-kislik-ici-polarli-yuksek-bel-toparlayici-tayt-p-874098019\n\nSıralama ve rakamlar Trendyol'un kendi listelerinden alınmıştır; fiyatlar paylaşım anındaki fiyatlardır, değişebilir. Aynı gün başka bir listede yer alan ürünler bu listeye alınmamıştır. Bu paylaşımda sponsorlu ürün yoktur.\n\n🔗 Tıklanabilir linkler profilde · Arkadaşına gönder, yarın yeni liste 📌\n\n#trendyolçoksatanlar #ürünyorumları #gününenleri #kadınmodası #alışveriş",
+ "muzik": "nu-disco.mp3",
+ "sahneler": [
+  {
+   "tur": "kanca",
+   "ust": "6 ÜRÜN · TRENDYOL ÇOK SATANLAR",
+   "buyuk": "Bugün en çok yorum alanlar",
+   "ses": "Trendyol'da bugün en çok yorum alan altı ürün."
+  },
+  {
+   "tur": "urun",
+   "sira": 6,
+   "marka": "BiavSi",
+   "buyuk": "Polarlı Yüksek Bel Tayt",
+   "fiyat": "299 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,3",
+    "2.320 değerlendirme"
+   ],
+   "rozetler": [],
+   "ses": "Polarlı Yüksek Bel Tayt, 299 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 5,
+   "marka": "simplicity",
+   "buyuk": "Siyah Topuklu Bot",
+   "fiyat": "1.990 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,5",
+    "2.368 değerlendirme"
+   ],
+   "rozetler": [
+    "Sepette indirim"
+   ],
+   "ses": "Siyah Topuklu Bot, 1.990 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 4,
+   "marka": "Ritnice",
+   "buyuk": "Antrasit Palazzo Pantolon",
+   "fiyat": "789 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,1",
+    "2.914 değerlendirme"
+   ],
+   "rozetler": [
+    "Kargo Bedava"
+   ],
+   "ses": "Antrasit Palazzo Pantolon, 789 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 3,
+   "marka": "GRIMELANGE",
+   "buyuk": "Siyah Oversize Tişört",
+   "fiyat": "448,91 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,2",
+    "3.534 değerlendirme"
+   ],
+   "rozetler": [
+    "Sepette indirim"
+   ],
+   "ses": "Siyah Oversize Tişört, 449 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 2,
+   "marka": "camaiore",
+   "buyuk": "Siyah Deri Topuklu Bot",
+   "fiyat": "1.469,16 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,4",
+    "4.202 değerlendirme"
+   ],
+   "rozetler": [
+    "Çok satan",
+    "Sepette indirim"
+   ],
+   "ses": "Siyah Deri Topuklu Bot, 1.469 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 1,
+   "marka": "Penti",
+   "buyuk": "Mürdüm Külotlu Çorap",
+   "fiyat": "168,99 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,6",
+    "4.745 değerlendirme"
+   ],
+   "rozetler": [],
+   "ses": "Mürdüm Külotlu Çorap, 169 lira."
+  },
+  {
+   "tur": "kapanis",
+   "buyuk": "Linkler profilde",
+   "alt": "Arkadaşına gönder · Yarın yeni liste",
+   "ses": "Linkler profilde. Arkadaşına gönder, yarın yeni liste."
+  }
+ ],
+ "urunler": [
+  {
+   "marka": "Penti",
+   "ad": "Fit 15 Mürdüm Külotlu Çorap",
+   "fiyat": 168.99,
+   "eski_fiyat": null,
+   "puan": 4.6,
+   "yorum": 4745,
+   "favori": 191200,
+   "satis_3gun": 500,
+   "link": "https://www.trendyol.com/penti/fit-15-murdum-kulotlu-corap-p-853384005",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "camaiore",
+   "ad": "Kadın Siyah Deri Sade Sivri Burun Bilekte Topuklu Bot",
+   "fiyat": 1469.16,
+   "eski_fiyat": null,
+   "puan": 4.4,
+   "yorum": 4202,
+   "favori": 199300,
+   "satis_3gun": 500,
+   "link": "https://www.trendyol.com/camaiore/kadin-siyah-deri-sade-sivri-burun-bilekte-topuklu-bot-p-977033233",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "GRIMELANGE",
+   "ad": "Basıl Kadın %100 Pamuk Bisiklet Yaka Oversize Fit Uzun Kollu Siyah T-shirt",
+   "fiyat": 448.91,
+   "eski_fiyat": null,
+   "puan": 4.2,
+   "yorum": 3534,
+   "favori": 247700,
+   "satis_3gun": 1000,
+   "link": "https://www.trendyol.com/grimelange/basil-kadin-100-pamuk-bisiklet-yaka-oversize-fit-uzun-kollu-siyah-t-shirt-p-788955600",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "Ritnice",
+   "ad": "Kadın Rena Kemerli Likralı Antrasit Palazzo Pantolon",
+   "fiyat": 789.0,
+   "eski_fiyat": null,
+   "puan": 4.1,
+   "yorum": 2914,
+   "favori": 229300,
+   "satis_3gun": 1000,
+   "link": "https://www.trendyol.com/ritnice/kadin-rena-kemerli-likrali-antrasit-palazzo-pantolon-p-866458994",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "simplicity",
+   "ad": "Sivri Burun Kalın Ökçe Yandan Fermuarlı Siyah Topuklu Bot",
+   "fiyat": 1990.0,
+   "eski_fiyat": null,
+   "puan": 4.5,
+   "yorum": 2368,
+   "favori": 160100,
+   "satis_3gun": 250,
+   "link": "https://www.trendyol.com/simplicity/sivri-burun-kalin-okce-yandan-fermuarli-siyah-topuklu-bot-p-1051042836",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "BiavSi",
+   "ad": "Şardonlu Kalın Kışlık İçi Polarlı Yüksek Bel Toparlayıcı Tayt",
+   "fiyat": 299.0,
+   "eski_fiyat": null,
+   "puan": 4.3,
+   "yorum": 2320,
+   "favori": 75700,
+   "satis_3gun": 1000,
+   "link": "https://www.trendyol.com/biavsi/sardonlu-kalin-kislik-ici-polarli-yuksek-bel-toparlayici-tayt-p-874098019",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  }
+ ],
+ "uretildi": "2026-10-23T10:44:08+03:00"
+}
