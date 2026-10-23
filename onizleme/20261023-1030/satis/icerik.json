@@ -1,0 +1,211 @@
+{
+ "format": "satis",
+ "baslik": "Bugün en çok satın alınanlar",
+ "sure_sn": 24.5,
+ "aciklama": "Trendyol'da bugün en çok satın alınan 6 ürün 🛒 · 23.10.2026\n\n1. Embeauty Siyah Dolgunlaştırıcı Maskara · 333,60 TL · son 3 günde 10.000+ satış\n🔗 https://www.trendyol.com/embeauty/ultra-siyah-dolgunlastirici-maskara-hacim-ve-uzunluk-etkili-p-1016742922\n2. VULLY Şeffaf Dudak Balmı · 609 TL · son 3 günde 5.000+ satış\n🔗 https://www.trendyol.com/vully/pdrn-glow-lip-balm-seffaf-cam-gorunumlu-parlaklik-veren-dolgunlastirici-ve-onarici-dudak-bakim-balmi-pdrn-hyaluronik-asit-peptit-iceren-10-ml-p-1172001120\n3. Cosmique Hacim Veren Cilt Serumu · 925 TL · son 3 günde 5.000+ satış\n🔗 https://www.trendyol.com/cosmique/6-volufiline-1-pal-isoleucine-yogun-dolgunlastirici-ve-hacim-bolgesel-cilt-bakim-serumu-25-ml-p-1200381778\n4. RESETIFY Retinal Booster Krem · 595 TL · son 3 günde 2.000+ satış\n🔗 https://www.trendyol.com/resetify/retinal-0-1-shot-corrector-booster-krem-20-ml-p-1020762651\n5. AVEONIX Nemlendirici Parlak Ruj · 649 TL · son 3 günde 2.000+ satış\n🔗 https://www.trendyol.com/aveonix/shine-veil-parlak-ruj-10-nemlendirici-puruzsuz-dolgun-dudak-etkili-lipstick-p-1133800890\n6. GRIMELANGE Beyaz Oversize Tişört · 442,57 TL · son 3 günde 1.500+ satış\n🔗 https://www.trendyol.com/grimelange/basil-kadin-100-pamuk-bisiklet-yaka-oversize-fit-uzun-kollu-beyaz-t-shirt-p-788955592\n\nSıralama ve rakamlar Trendyol'un kendi listelerinden alınmıştır; fiyatlar paylaşım anındaki fiyatlardır, değişebilir. Aynı gün başka bir listede yer alan ürünler bu listeye alınmamıştır. Bu paylaşımda sponsorlu ürün yoktur.\n\n🔗 Tıklanabilir linkler profilde · Arkadaşına gönder, yarın yeni liste 📌\n\n#trendyolçoksatanlar #çoksatanlar #gününenleri #kadınmodası #alışveriş",
+ "muzik": "nu-disco.mp3",
+ "sahneler": [
+  {
+   "tur": "kanca",
+   "ust": "6 ÜRÜN · TRENDYOL ÇOK SATANLAR",
+   "buyuk": "Bugün en çok satın alınanlar",
+   "ses": "Trendyol'da bugün en çok satın alınan altı ürün."
+  },
+  {
+   "tur": "urun",
+   "sira": 6,
+   "marka": "GRIMELANGE",
+   "buyuk": "Beyaz Oversize Tişört",
+   "fiyat": "442,57 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,0",
+    "3.582 değerlendirme",
+    "3 günde 1.500+ satış"
+   ],
+   "rozetler": [
+    "Çok satan",
+    "Sepette indirim"
+   ],
+   "ses": "Beyaz Oversize Tişört, 443 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 5,
+   "marka": "AVEONIX",
+   "buyuk": "Nemlendirici Parlak Ruj",
+   "fiyat": "649 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,6",
+    "864 değerlendirme",
+    "3 günde 2.000+ satış"
+   ],
+   "rozetler": [
+    "Kargo Bedava"
+   ],
+   "ses": "Nemlendirici Parlak Ruj, 649 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 4,
+   "marka": "RESETIFY",
+   "buyuk": "Retinal Booster Krem",
+   "fiyat": "595 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,4",
+    "9.506 değerlendirme",
+    "3 günde 2.000+ satış"
+   ],
+   "rozetler": [
+    "Kargo Bedava"
+   ],
+   "ses": "Retinal Booster Krem, 595 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 3,
+   "marka": "Cosmique",
+   "buyuk": "Hacim Veren Cilt Serumu",
+   "fiyat": "925 TL",
+   "eski": "",
+   "cipler": [
+    "★ 5,0",
+    "145 değerlendirme",
+    "3 günde 5.000+ satış"
+   ],
+   "rozetler": [
+    "Kargo Bedava"
+   ],
+   "ses": "Hacim Veren Cilt Serumu, 925 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 2,
+   "marka": "VULLY",
+   "buyuk": "Şeffaf Dudak Balmı",
+   "fiyat": "609 TL",
+   "eski": "",
+   "cipler": [
+    "★ 3,3",
+    "293 değerlendirme",
+    "3 günde 5.000+ satış"
+   ],
+   "rozetler": [
+    "Kargo Bedava"
+   ],
+   "ses": "Şeffaf Dudak Balmı, 609 lira."
+  },
+  {
+   "tur": "urun",
+   "sira": 1,
+   "marka": "Embeauty",
+   "buyuk": "Siyah Dolgunlaştırıcı Maskara",
+   "fiyat": "333,60 TL",
+   "eski": "",
+   "cipler": [
+    "★ 4,2",
+    "35.686 değerlendirme",
+    "3 günde 10.000+ satış"
+   ],
+   "rozetler": [
+    "Çok satan"
+   ],
+   "ses": "Siyah Dolgunlaştırıcı Maskara, 334 lira."
+  },
+  {
+   "tur": "kapanis",
+   "buyuk": "Linkler profilde",
+   "alt": "Arkadaşına gönder · Yarın yeni liste",
+   "ses": "Linkler profilde. Arkadaşına gönder, yarın yeni liste."
+  }
+ ],
+ "urunler": [
+  {
+   "marka": "Embeauty",
+   "ad": "Ultra Siyah Dolgunlaştırıcı Maskara – Hacim ve Uzunluk Etkili",
+   "fiyat": 333.6,
+   "eski_fiyat": null,
+   "puan": 4.2,
+   "yorum": 35686,
+   "favori": 1200000,
+   "satis_3gun": 10000,
+   "link": "https://www.trendyol.com/embeauty/ultra-siyah-dolgunlastirici-maskara-hacim-ve-uzunluk-etkili-p-1016742922",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "VULLY",
+   "ad": "PDRN Glow Lip Balm | Şeffaf, Cam Görünümlü Parlaklık Veren, Dolgunlaştırıcı ve Onarıcı Dudak Bakım Balmı | PDRN, Hyalüronik Asit & Peptit İçeren 10 ml",
+   "fiyat": 609.0,
+   "eski_fiyat": null,
+   "puan": 3.3,
+   "yorum": 293,
+   "favori": 139300,
+   "satis_3gun": 5000,
+   "link": "https://www.trendyol.com/vully/pdrn-glow-lip-balm-seffaf-cam-gorunumlu-parlaklik-veren-dolgunlastirici-ve-onarici-dudak-bakim-balmi-pdrn-hyaluronik-asit-peptit-iceren-10-ml-p-1172001120",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "Cosmique",
+   "ad": "%6 Volufiline + %1 Pal-Isoleucine - Yoğun Dolgunlaştırıcı ve Hacim Bölgesel Cilt Bakım Serumu 25 ml",
+   "fiyat": 925.0,
+   "eski_fiyat": null,
+   "puan": 5.0,
+   "yorum": 145,
+   "favori": 610100,
+   "satis_3gun": 5000,
+   "link": "https://www.trendyol.com/cosmique/6-volufiline-1-pal-isoleucine-yogun-dolgunlastirici-ve-hacim-bolgesel-cilt-bakim-serumu-25-ml-p-1200381778",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "RESETIFY",
+   "ad": "Retinal (%0,1) Shot Corrector Booster Krem 20 ML",
+   "fiyat": 595.0,
+   "eski_fiyat": null,
+   "puan": 4.4,
+   "yorum": 9506,
+   "favori": 746700,
+   "satis_3gun": 2000,
+   "link": "https://www.trendyol.com/resetify/retinal-0-1-shot-corrector-booster-krem-20-ml-p-1020762651",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "AVEONIX",
+   "ad": "Shine Veil Parlak Ruj 10 Nemlendirici Pürüzsüz Dolgun Dudak Etkili Lipstick",
+   "fiyat": 649.0,
+   "eski_fiyat": null,
+   "puan": 4.6,
+   "yorum": 864,
+   "favori": 54600,
+   "satis_3gun": 2000,
+   "link": "https://www.trendyol.com/aveonix/shine-veil-parlak-ruj-10-nemlendirici-puruzsuz-dolgun-dudak-etkili-lipstick-p-1133800890",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  },
+  {
+   "marka": "GRIMELANGE",
+   "ad": "Basıl Kadın %100 Pamuk Bisiklet Yaka Oversize Fit Uzun Kollu Beyaz T-shirt",
+   "fiyat": 442.57,
+   "eski_fiyat": null,
+   "puan": 4.0,
+   "yorum": 3582,
+   "favori": 415700,
+   "satis_3gun": 1500,
+   "link": "https://www.trendyol.com/grimelange/basil-kadin-100-pamuk-bisiklet-yaka-oversize-fit-uzun-kollu-beyaz-t-shirt-p-788955592",
+   "indirim_kaynagi": null,
+   "indirim_orani": null,
+   "vitrin": null
+  }
+ ],
+ "uretildi": "2026-10-23T10:37:20+03:00"
+}
