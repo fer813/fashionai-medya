@@ -448,5 +448,55 @@
   "yol": "https://www.instagram.com/reel/DezuJKrDmWV/",
   "tarih": "2026-10-22",
   "urunler": []
+ },
+ "18193796782400407": {
+  "format": "indirim",
+  "baslik": "Bugün en çok fiyatı düşenler",
+  "yol": "onizleme/20261024-1022/indirim",
+  "tarih": "2026-10-24",
+  "urunler": [
+   {
+    "n": 1,
+    "ad": "Güneş Kremi SPF50",
+    "marka": "CALLİEL",
+    "fiyat": 258.76,
+    "link": "https://www.trendyol.com/calliel/ton-esitleyici-aydinlik-verici-yogun-nemlendirici-50-spf-gunes-kremi-80-ml-p-951534808"
+   },
+   {
+    "n": 2,
+    "ad": "PDRN Dudak Balmı",
+    "marka": "VULLY",
+    "fiyat": 445.5,
+    "link": "https://www.trendyol.com/vully/pdrn-glow-lip-balm-seffaf-cam-gorunumlu-parlaklik-veren-dolgunlastirici-ve-onarici-dudak-bakim-balmi-pdrn-hyaluronik-asit-peptit-iceren-10-ml-p-1172001120"
+   },
+   {
+    "n": 3,
+    "ad": "Kadın Floral Parfüm",
+    "marka": "LumenaScent",
+    "fiyat": 399.9,
+    "link": "https://www.trendyol.com/lumenascent/liora-kadin-parfum-floral-edp-50-ml-p-971347342"
+   },
+   {
+    "n": 4,
+    "ad": "Oversize Palazzo Pantolon",
+    "marka": "LAVİNİM",
+    "fiyat": 522.5,
+    "link": "https://www.trendyol.com/lavinim/palazzo-pantolon-oversize-orjinal-kesim-p-652719507"
+   },
+   {
+    "n": 5,
+    "ad": "Dolgunlaştırıcı Cilt Serumu",
+    "marka": "Cosmique",
+    "fiyat": 845.0,
+    "link": "https://www.trendyol.com/cosmique/6-volufiline-1-pal-isoleucine-yogun-dolgunlastirici-ve-hacim-bolgesel-cilt-bakim-serumu-25-ml-p-1200381778"
+   },
+   {
+    "n": 6,
+    "ad": "Oversize Triko Kazak",
+    "marka": "STF MODA",
+    "fiyat": 465.0,
+    "link": "https://www.trendyol.com/stf-moda/kadin-yildiz-oversize-triko-kazak-yumusak-dokulu-bisiklet-yaka-p-1108155145"
+   }
+  ]
  }
 }
