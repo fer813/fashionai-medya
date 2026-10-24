@@ -498,5 +498,55 @@
     "link": "https://www.trendyol.com/stf-moda/kadin-yildiz-oversize-triko-kazak-yumusak-dokulu-bisiklet-yaka-p-1108155145"
    }
   ]
+ },
+ "17893340397613422": {
+  "format": "satis",
+  "baslik": "Bugün en çok satın alınanlar",
+  "yol": "onizleme/20261024-1022/satis",
+  "tarih": "2026-10-24",
+  "urunler": [
+   {
+    "n": 1,
+    "ad": "Siyah Hacimli Maskara",
+    "marka": "Embeauty",
+    "fiyat": 333.6,
+    "link": "https://www.trendyol.com/embeauty/ultra-siyah-dolgunlastirici-maskara-hacim-ve-uzunluk-etkili-p-1016742922"
+   },
+   {
+    "n": 2,
+    "ad": "Retinal Booster Krem",
+    "marka": "RESETIFY",
+    "fiyat": 595.0,
+    "link": "https://www.trendyol.com/resetify/retinal-0-1-shot-corrector-booster-krem-20-ml-p-1020762651"
+   },
+   {
+    "n": 3,
+    "ad": "Kadın Body Mist",
+    "marka": "LumenaScent",
+    "fiyat": 330.02,
+    "link": "https://www.trendyol.com/lumenascent/liora-pour-femme-body-mist-p-1124100904"
+   },
+   {
+    "n": 4,
+    "ad": "Tüy Azaltıcı Serum",
+    "marka": "ORNATE",
+    "fiyat": 239.0,
+    "link": "https://www.trendyol.com/ornate/karinca-yumurtasi-yagli-tuy-azaltici-ve-tuy-serum-30ml-0-5-formic-acid-10-aloe-vera-p-474728905"
+   },
+   {
+    "n": 5,
+    "ad": "Suni Deri Trençkot",
+    "marka": "Stradivarius",
+    "fiyat": 1610.0,
+    "link": "https://www.trendyol.com/stradivarius/dik-yaka-suni-deri-trenckot-p-1171858514"
+   },
+   {
+    "n": 6,
+    "ad": "Beyaz Oversize Tişört",
+    "marka": "GRIMELANGE",
+    "fiyat": 442.57,
+    "link": "https://www.trendyol.com/grimelange/basil-kadin-100-pamuk-bisiklet-yaka-oversize-fit-uzun-kollu-beyaz-t-shirt-p-788955592"
+   }
+  ]
  }
 }
