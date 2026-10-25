@@ -1,0 +1,396 @@
+{
+ "zaman": "2026-10-25T10:04:37.412201+00:00",
+ "hesap": {
+  "username": "fashionai.tr",
+  "name": "Günün Enleri | Çok Satanlar",
+  "biography": "Pazar yerlerinin enlerini sizin için hergün hazırlıyoruz  🛒\n5 liste: satış · favori · yorum · indirim · beğeni\nFiyatlar günlük, linkler ↓",
+  "followers_count": 3,
+  "follows_count": 0,
+  "media_count": 15,
+  "website": "https://fer813.github.io/fashionai-medya/",
+  "id": "28537504589279347"
+ },
+ "gunluk": {
+  "reach": [
+   {
+    "name": "reach",
+    "period": "day",
+    "title": "Accounts reached",
+    "description": "The number of unique accounts that have seen your content, at least once, including in ads. Content includes posts, stories, reels, videos and live videos. Reach is different from impressions, which may include multiple views of your content by the same accounts. This metric is estimated and in development.",
+    "total_value": {
+     "value": 305
+    },
+    "id": "17841415667484932/insights/reach/day"
+   }
+  ],
+  "profile_views": [
+   {
+    "name": "profile_views",
+    "period": "day",
+    "title": "Profile visits",
+    "description": "The number of times your profile was visited.",
+    "total_value": {
+     "value": 6
+    },
+    "id": "17841415667484932/insights/profile_views/day"
+   }
+  ],
+  "accounts_engaged": [
+   {
+    "name": "accounts_engaged",
+    "period": "day",
+    "title": "Accounts engaged",
+    "description": "The number of accounts that have interacted with your content, including in ads. Content includes posts, stories, reels, videos and live videos. Interactions can include actions such as likes, saves, comments, shares or replies. These metrics are estimated and in development.",
+    "total_value": {
+     "value": 3
+    },
+    "id": "17841415667484932/insights/accounts_engaged/day"
+   }
+  ],
+  "website_clicks": [
+   {
+    "name": "website_clicks",
+    "period": "day",
+    "title": "Website link taps",
+    "description": "The number of times the link to your website was tapped.",
+    "total_value": {
+     "value": 1
+    },
+    "id": "17841415667484932/insights/website_clicks/day"
+   }
+  ],
+  "follower_count": []
+ },
+ "medya": [
+  {
+   "id": "17913444198555741",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok beğenilen 6 ürün ⭐ · 24.10.2026",
+   "timestamp": "2026-10-24T17:27:53+0000",
+   "permalink": "https://www.instagram.com/reel/De4qvptj1AV/",
+   "like_count": 0,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/863645044_18149789206522250_4166690075363819229_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KtT6YShSbnQQ7kNvwEk2XYc&_nc_oc=AdrV3ot9AM6c1K0ZXU0vqWg9p970qwwatZX573YyjhBVX4FnMXkwtD4jTe_o95_7rDs&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQJRG2COdfoTDawl_okFpOL6G_mo2rIDt_cLlPZY_PhTg9ZUsKga10tvGtRx0qoDAV0sIQf5_quDUQ&oh=00_AQNC-PFUC2QeYxRzCw9SYxrcP51GxwpCgae5uqjmKMrA9Q&oe=6AE39FAF",
+   "insights": {
+    "views": 30,
+    "reach": 25,
+    "likes": 0,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 1484,
+    "ig_reels_video_view_total_time": 37123
+   }
+  },
+  {
+   "id": "18100539848552787",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok yorum alan 6 ürün 💬 · 24.10.2026",
+   "timestamp": "2026-10-24T15:26:56+0000",
+   "permalink": "https://www.instagram.com/reel/De4c5orAB6Y/",
+   "like_count": 0,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/862480980_18149750449522250_6935117795558246763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gH3NIZvMMK8Q7kNvwFdcTtA&_nc_oc=AdqB6y5HJJhJhJffqu2HZWbTkBTR7t-23ay0LDIayOFGbnSYFiYy51zEUMc_7oAVpHs&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQLgqqcDi3F-zS-MeQmhfopU2RWru6AMdTIxyi3y1AgJYInDFFv6wJDcOJQOGHXvQ_vvKAGSvcgZPw&oh=00_AQPEBtqTl2D_oWjpL96iuv9kmakKIEeoDafItzAHcJnHVA&oe=6AE3A12F",
+   "insights": {
+    "views": 42,
+    "reach": 39,
+    "likes": 0,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 1419,
+    "ig_reels_video_view_total_time": 55341
+   }
+  },
+  {
+   "id": "18132563947773930",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok favorilere eklenen 6 ürün 🤍 · 24.10.2026",
+   "timestamp": "2026-10-24T13:23:07+0000",
+   "permalink": "https://www.instagram.com/reel/De4OucmCDQB/",
+   "like_count": 0,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/863678654_18149706274522250_7896720544700840506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UPL0eNG9Mo8Q7kNvwGBhdak&_nc_oc=AdrOhNBLMM6vwPX-2hc8vJKE8NYejxWyidgDYVVZbi3SE34Tvf9Az7TvwOu8Jv9fyE0&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQKYOq0rmztjNnbWwkdbypBYlti0HdYcXzjnGwu8jGvkh6TvWxQNTNfWcY3PS49mPn4yq8qx_kb96g&oh=00_AQMAFrmToecXieXRVl-V3JFzG1mc1Vbg01y7zJPKf11GCA&oe=6AE3A95F",
+   "insights": {
+    "views": 26,
+    "reach": 23,
+    "likes": 0,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 2368,
+    "ig_reels_video_view_total_time": 56837
+   }
+  },
+  {
+   "id": "17893340397613422",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok satın alınan 6 ürün 🛒 · 24.10.2026",
+   "timestamp": "2026-10-24T09:44:34+0000",
+   "permalink": "https://www.instagram.com/reel/De31uKsifyE/",
+   "like_count": 1,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/861562649_18149639335522250_6169337349183628837_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=0z3nzqV5gEgQ7kNvwF2nCWy&_nc_oc=Adpbf8TmO2TdK-oa2UUFUIkZGxxhv_nLr6KD0f3PMHSCCvbkcpiNC8zY_5K0fQPcbDA&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQL1EKhq1D0mh7GUOWkQFnRgI_i9TTdNgskjLhKPVTC1SH4HIYh-Z4DshyxYcisRzwb8D7Svc-N4AA&oh=00_AQOSYM0u6bheAAE5s0_Ct_UbZyv2ePFxBVZLZKOtMFnmJg&oe=6AE3BD9B",
+   "insights": {
+    "views": 136,
+    "reach": 129,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 1010,
+    "ig_reels_video_view_total_time": 130402
+   }
+  },
+  {
+   "id": "18193796782400407",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün fiyatı en çok düşen 6 ürün 🔻 · 24.10.2026",
+   "timestamp": "2026-10-24T07:44:35+0000",
+   "permalink": "https://www.instagram.com/reel/De3n_ZAlYY0/",
+   "like_count": 1,
+   "comments_count": 5,
+   "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/862550589_18149606764522250_6587774511986427273_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5xary49MbugQ7kNvwGGw4k-&_nc_oc=AdqoCMQpCZm7WY8UptM-MYUk9tmLyqah8i9gmjn1eZUr98bA8jjJ1POAwJ_ym8GsaUA&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQLMDtFmCBTTWxaOZYSgiC5IQ65jrUCdptz6FjPgC9phhR-ixUE66bzI9xQQ1WNgVOyOL6MHCshWvg&oh=00_AQMlcnNFOGGRhvLnS48LGkZm_ZrreWJT0n6NatCK2BcqIw&oe=6AE3943E",
+   "insights": {
+    "views": 108,
+    "reach": 100,
+    "likes": 1,
+    "comments": 5,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 1805,
+    "ig_reels_video_view_total_time": 184176
+   }
+  },
+  {
+   "id": "18096743087408318",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok beğenilen 6 ürün ⭐ · 23.10.2026",
+   "timestamp": "2026-10-23T08:39:54+0000",
+   "permalink": "https://www.instagram.com/reel/De1JhM7gsX1/",
+   "like_count": 1,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/863617859_18149266519522250_2411914297907394159_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=PXLAZk0Lh4gQ7kNvwGSYDby&_nc_oc=AdpPY_xdJUnht6RPfQ9NPsOLCySIW_3HSUoq_D1Vgm5kpAezpA2bH8kHJuYjrUO1Zfs&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQIlOslW5h5539NHhfRLoq5YI0iJ5IXyAM_rSZKyibAjfWTBvRIT-NdApxOFQlQcHNTih9MY3TR4zw&oh=00_AQPC_gr4VPtY5FTEIZMCnLPBJzv082BtUOu9p8BeYfsYAA&oe=6AE3C260",
+   "insights": {
+    "views": 83,
+    "reach": 79,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 1178,
+    "ig_reels_video_view_total_time": 93073
+   }
+  },
+  {
+   "id": "18386169835229491",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok yorum alan 6 ürün 💬 · 23.10.2026",
+   "timestamp": "2026-10-23T08:25:40+0000",
+   "permalink": "https://www.instagram.com/reel/De1H4_0DznJ/",
+   "like_count": 1,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/861692532_18149263927522250_5598323063117141756_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=g472efM8OnsQ7kNvwEQSenP&_nc_oc=AdoiHZJSbaeP1n7Y8wyB5aAwo66r3fxHO16YqMuCl7F1FYs47gl57atDEImeBC-a2B0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQKddc3HRQnm-p8pjLQvdawWURlrcOQQFNhaA59Dkj-HLVCIW556kFEVhn_iW7Wjh5kYGHdF0X7grQ&oh=00_AQOw_Ej6J4y4s7CnK2G3ZHg7jR0Y_nNGePf9QbEL-Ul9jw&oe=6AE39BFA",
+   "insights": {
+    "views": 14,
+    "reach": 9,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 3067,
+    "ig_reels_video_view_total_time": 36809
+   }
+  },
+  {
+   "id": "18109331345236505",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok favorilere eklenen 6 ürün 🤍 · 23.10.2026",
+   "timestamp": "2026-10-23T08:11:50+0000",
+   "permalink": "https://www.instagram.com/reel/De1GUG5janG/",
+   "like_count": 1,
+   "comments_count": 2,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/863838588_18149261227522250_9048909255928114531_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=7yGJKmcwGtcQ7kNvwHk2oPD&_nc_oc=AdrNwwNqvheiSbnNuJUPwdyYSlvvntGMx87Z8E922YDdzo_iKQkX99yRrNWzYPBw36Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQLCWKD5D34MmmhDeTUcxJ36Lt80XqjlUp82N93LcbZCF8WWqnKYRgupvRsqIA0Ib6ArfABKqi3miA&oh=00_AQP2FbZY1fLPWnzivbLI9ap26rZtHWWEjP6YFKCfE2UG3w&oe=6AE39458",
+   "insights": {
+    "views": 27,
+    "reach": 25,
+    "likes": 1,
+    "comments": 2,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 924,
+    "ig_reels_video_view_total_time": 24030
+   }
+  },
+  {
+   "id": "18143847115596133",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün fiyatı en çok düşen 5 ürün 🔻 · 23.10.2026",
+   "timestamp": "2026-10-23T07:58:21+0000",
+   "permalink": "https://www.instagram.com/reel/De1ExMLiknZ/",
+   "like_count": 1,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/864073775_18149258566522250_3796978524650366106_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UUze47xLqD0Q7kNvwGvyn24&_nc_oc=AdqdNdoCPUf2R2ou4tHMWG9e4qSqYMUZ8hzw7afwt59eFm1h-H-48J8F_A9b5tzjWHI&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQJcDL09E3TvqI4RNdOlS41_OSscKUzTbaXJ5IC1P6rZB-_auwYl1emRUUdKaZwrsyxc5uLisfATmA&oh=00_AQPV5oCCxu8ho8upR0qiuXzEkiYnYhABWjhTvGNigfswJw&oe=6AE3AA2C",
+   "insights": {
+    "views": 17,
+    "reach": 14,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 1375,
+    "ig_reels_video_view_total_time": 20632
+   }
+  },
+  {
+   "id": "18131870899771846",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok satın alınan 6 ürün 🛒 · 23.10.2026",
+   "timestamp": "2026-10-23T07:41:37+0000",
+   "permalink": "https://www.instagram.com/reel/De1C2yJAs-t/",
+   "like_count": 1,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/858524494_18149255116522250_3063235434605216258_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CbMlhmHFSx0Q7kNvwFpZRVe&_nc_oc=Adou1Gt3BuIJuYYUV-3G3TtJcG8Vg6Q2nY0jnOGJhhSmi3_PzCDnDIXlVfEGV7TQnfU&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQIISUnDkmThDfvCjLWzHA-ZT3c_bbwGSiiohRaASmFcflouIiEJuEuABSUtVdNyRE0vyOkJauFX1g&oh=00_AQPG_P3b1t1GAMMakFqZzYk40bRdjCWS1qdfmKhOUl8whQ&oe=6AE3C090",
+   "insights": {
+    "views": 15,
+    "reach": 13,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 1749,
+    "ig_reels_video_view_total_time": 24495
+   }
+  },
+  {
+   "id": "18153173149528763",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Trendyol'da bugün en çok beğenilen 6 ürün ⭐ · 22.10.2026",
+   "timestamp": "2026-10-22T21:13:13+0000",
+   "permalink": "https://www.instagram.com/reel/Dez67_2FCwv/",
+   "like_count": 1,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/860336167_18149127511522250_279626920808020002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ljiki5dwI-4Q7kNvwH-wD6D&_nc_oc=AdpNrnwTi70uNLYDbDH3KFBKAU7101FAs0W7yiqMU12_xJKPLl4fms9M3HWZmfs-0eM&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQJxko38-mbahVD2hmO7B-o-t0jHWpmWLDXBCkK7p6iU8AI_MSRNyAJswu20Hz7hBZry2TwPqvyjlw&oh=00_AQPHHN8SH8y2XzjtcHol28G2Pd9YaymA48z-zeIi51ZNHQ&oe=6AE39410",
+   "insights": {
+    "views": 120,
+    "reach": 113,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 1635,
+    "ig_reels_video_view_total_time": 188054
+   }
+  },
+  {
+   "id": "18447368632135722",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Bugün en çok satın alınan 6 ürün 🛒",
+   "timestamp": "2026-10-22T20:57:17+0000",
+   "permalink": "https://www.instagram.com/reel/Dez5Hd1Epnq/",
+   "like_count": 2,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/858638070_18149124637522250_5095891967481923265_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=STp7bEoUdmYQ7kNvwEukLuI&_nc_oc=Adp14cbOoPEPS7eQPKGlR1MIP7gUxI2308_6yKwTXTHuG2ukTmXnNvli9xZJPNBjnBY&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQIAcH7i5D-cWBGoVwqfr4RRnUoILoyfljdOththjMD5Nw-KyM4Optz59BFlGAtjFxrHQEjNXf4Uuw&oh=00_AQNXzXYlEZaxjdgExCJ1UwP89IyvVVYYmAps-b-S_5RtwA&oe=6AE3B475",
+   "insights": {
+    "views": 73,
+    "reach": 70,
+    "likes": 2,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 1835,
+    "ig_reels_video_view_total_time": 132190
+   }
+  },
+  {
+   "id": "18134031664676198",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Bugün en çok yorum alan 6 ürün 💬",
+   "timestamp": "2026-10-22T20:19:02+0000",
+   "permalink": "https://www.instagram.com/reel/Dez0vRwDloY/",
+   "like_count": 2,
+   "comments_count": 1,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/858356158_18149118298522250_5702463251198594708_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=IGTPUQfn9C0Q7kNvwFlzJcf&_nc_oc=Adpe4cys9VXpOlFmFjAz_4JspCVJH_4AVprAj2GbFBACGdp9rBf4ebf-sip3bn5qscc&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQLTcKFw4shJbXCRqZNyj5WozYeOBft_JUvabV7qfdsUn_AGUm6waYiOxYevc6Y21iO86WMFdgRWzg&oh=00_AQNIh7Wfu1VBbHdpHT47FLnZohEzMACirouNfz1UipzCxw&oe=6AE39237",
+   "insights": {
+    "views": 114,
+    "reach": 103,
+    "likes": 2,
+    "comments": 1,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 1175,
+    "ig_reels_video_view_total_time": 124648
+   }
+  },
+  {
+   "id": "18033259445892969",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Bugün en çok favorilere eklenenler",
+   "timestamp": "2026-10-22T19:44:51+0000",
+   "permalink": "https://www.instagram.com/reel/Dezw083jc8K/",
+   "like_count": 2,
+   "comments_count": 0,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/861806316_18149109805522250_3957176929161679303_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SvQPSFBDUwwQ7kNvwH2Nujr&_nc_oc=AdpyJ7BMQmbpMaDOvcrmm5QAp8P4c9-d9lFVMCWfDcmyUOXHflCVwX5aZrSq6VfVe5g&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQIgjN4WTMZbRU6qoplZI3z_4mCWgxq_2lSuX_VUk4IOQ-3z_7CFA4dz8ziMvQQwkOEX0nUo357kDw&oh=00_AQO4IeIH-jV47m-xeMpmDm-U6vOqhK8OeOYWkI72pemLvQ&oe=6AE39389",
+   "insights": {
+    "views": 74,
+    "reach": 63,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 2856,
+    "ig_reels_video_view_total_time": 194252
+   }
+  },
+  {
+   "id": "18023604020708555",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "caption": "Pazar yerlerinde günün enleri, her gün burada.",
+   "timestamp": "2026-10-22T19:21:24+0000",
+   "permalink": "https://www.instagram.com/reel/DezuJKrDmWV/",
+   "like_count": 3,
+   "comments_count": 0,
+   "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/862434065_18149102356522250_848131272399525370_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=f5HSTaobJtEQ7kNvwHzs71W&_nc_oc=AdpyHxLgynvkrHwZVFAhSzjWeC3Np2nu4v8-j8iniT6RocEXfvv6eQ8VVpmEcokPbio&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iOZWhTw9ZP0wXY0K_MmpPg&_nc_tpa=Q5bMBQLOagAdLpPcl72ZQL-ietdJVUbJu7lfO3d07cUyGIMeATSn77jkF_RpN3TspVrw4cBuzYh8cJ6J4w&oh=00_AQORzUy8kQci-5oTNBWPkKrjvH7ysQvmX8LcI1Ml345eOA&oe=6AE3A725",
+   "insights": {
+    "views": 119,
+    "reach": 110,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 2143,
+    "ig_reels_video_view_total_time": 237979
+   }
+  }
+ ]
+}
